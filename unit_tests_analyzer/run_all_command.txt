@@ -1,0 +1,1 @@
+python -m unittest discover C:\Users\G4\PycharmProjects\proect_unit_Tests\venv\proiect_S -v
